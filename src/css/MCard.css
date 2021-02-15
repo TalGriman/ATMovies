@@ -1,0 +1,8 @@
+.poster {
+    border-radius: 5%;
+    box-shadow: 0 0 5px 5px#8f8f8f44;
+}
+
+.pointer {
+    cursor: pointer;
+}
